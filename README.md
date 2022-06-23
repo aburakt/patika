@@ -1,2 +1,2 @@
 # patika
-patika.dev
+[patika.dev](https://www.patika.dev/)
